@@ -1,3 +1,6 @@
-jupyter
-notebook
 ipykernel
+jupyter
+matplotlib
+notebook
+numpy
+pandas
